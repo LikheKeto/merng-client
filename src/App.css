@@ -1,0 +1,5 @@
+.page-title {
+	display: grid !important;
+	place-items: center;
+	margin-top: 10px;
+}
